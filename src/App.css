@@ -4,6 +4,7 @@
 }
 .container > .content {
   position: relative;
+  user-select: none;
 }
 
 .content > canvas {
